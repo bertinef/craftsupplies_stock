@@ -1,14 +1,4 @@
-com\mycompany\interfaces\Login_Registration_Pages$LoginRegistration.class
-com\mycompany\interfaces\user_management\User.class
-com\mycompany\interfaces\user_management\ManageUsers.class
-com\mycompany\interfaces\ManageUsers.class
-com\mycompany\interfaces\ViewRentals.class
-com\mycompany\interfaces\Interfaces.class
-com\mycompany\interfaces\HomePage$1.class
-com\mycompany\interfaces\Login_Registration_Pages.class
-com\mycompany\interfaces\HomePage$2.class
-com\mycompany\interfaces\HomePage.class
-com\mycompany\interfaces\HomePage$3.class
-com\mycompany\interfaces\LoginForm.class
+com\mycompany\craftstock\Login.class
+com\mycompany\craftstock\Login$2.class
 com\mycompany\craftstock\CraftStock.class
-com\mycompany\interfaces\ManageBicycles.class
+com\mycompany\craftstock\Login$1.class
